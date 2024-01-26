@@ -30,7 +30,7 @@ span, a {
     color:#FF9900;
 }
 
-p {
+p, #footer {
     color: #7D7987;
 
     font-size: 14px;
@@ -44,8 +44,8 @@ p {
     margin: 0 auto 8px;
 }
 
-#insta {
-    margin-right: 28px;
+#footer a + a{
+    margin-left: 28px;
 }
 
 #balls {
